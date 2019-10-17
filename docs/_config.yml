@@ -16,3 +16,5 @@ heading_anchors: true
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Curated by current students of i-DAT, Plymouth University [DAT602 Everyware]"
+
+theme: jekyll-theme-cayman
